@@ -1,7 +1,7 @@
 <!--
-  This README appears on the ChilyerStudios GitHub profile page.
+  This README appears on the ChilyerStudiosLLC GitHub profile page.
   To activate it, this file must live in a public repo at:
-    github.com/ChilyerStudios/ChilyerStudios
+    github.com/ChilyerStudiosLLC/ChilyerStudiosLLC
   i.e. a repo whose name exactly matches the username.
 
   The picture/source tags below auto-swap the logo for light vs dark theme.
