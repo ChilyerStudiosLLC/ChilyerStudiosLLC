@@ -12,9 +12,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChilyerStudios/chilyer-brand/main/png/lockup-horizontal-inverse-240h.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChilyerStudios/chilyer-brand/main/png/lockup-horizontal-deep-frost-240h.png">
-  <img alt="Chilyer Studios" src="https://raw.githubusercontent.com/ChilyerStudios/chilyer-brand/main/png/lockup-horizontal-deep-frost-240h.png" height="120">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChilyerStudiosLLC/chilyer-brand/main/png/lockup-horizontal-inverse-240h.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChilyerStudiosLLC/chilyer-brand/main/png/lockup-horizontal-deep-frost-240h.png">
+  <img alt="Chilyer Studios" src="https://raw.githubusercontent.com/ChilyerStudiosLLC/chilyer-brand/main/png/lockup-horizontal-deep-frost-240h.png" height="120">
 </picture>
 
 <br/><br/>
@@ -22,7 +22,7 @@
 **Independent game studio. Cold mechanics, deliberate craft.**
 
 [![X](https://img.shields.io/badge/X-@ChilyerStudios-1A2740?style=flat&logo=x&logoColor=3CDFFF)](https://x.com/ChilyerStudios)
-[![Brand](https://img.shields.io/badge/Brand-Assets-1A2740?style=flat&logoColor=3CDFFF)](https://github.com/ChilyerStudios/chilyer-brand)
+[![Brand](https://img.shields.io/badge/Brand-Assets-1A2740?style=flat&logoColor=3CDFFF)](https://github.com/ChilyerStudiosLLC/chilyer-brand)
 
 </div>
 
@@ -39,7 +39,7 @@ I'm Chris, the developer behind Chilyer Studios — a one-person indie studio ba
 ### Reach me
 
 - **X:** [@ChilyerStudios](https://x.com/ChilyerStudios) — work-in-progress posts, screenshots, dev notes
-- **Brand assets:** [chilyer-brand](https://github.com/ChilyerStudios/chilyer-brand) — logos, colors, usage guidelines
+- **Brand assets:** [chilyer-brand](https://github.com/ChilyerStudiosLLC/chilyer-brand) — logos, colors, usage guidelines
 
 <br/>
 
