@@ -41,6 +41,10 @@ I'm Chris, the developer behind Chilyer Studios — a one-person indie studio ba
 - **X:** [@ChilyerStudios](https://x.com/ChilyerStudios) — work-in-progress posts, screenshots, dev notes
 - **Brand assets:** [chilyer-brand](https://github.com/ChilyerStudiosLLC/chilyer-brand) — logos, colors, usage guidelines
 
+### Open source
+
+- **[blender-character-pipeline](https://github.com/ChilyerStudiosLLC/blender-character-pipeline)** — Reproducible workflow for game-ready 3D characters in Blender. Shared base mesh, body-topology costumes, stop-and-validate stage gates.
+
 <br/>
 
 <div align="center">
